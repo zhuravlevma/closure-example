@@ -1,0 +1,2 @@
+# closure-example
+Closure example
